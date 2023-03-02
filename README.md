@@ -5,3 +5,5 @@
 * Scrapy
 * Selenium
 * requests + bs4
+
+Для парсинга был использован сайт https://books.toscrape.com, предназначенный для практики парсинга сайтов.
